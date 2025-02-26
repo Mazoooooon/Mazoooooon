@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## 🌱 I’m currently learning Java
+## 🌱 I’m currently learning Game Development
+## 📫 How to reach me: mentalisdev on Instagram
 <!--
 **Mazoooooon/Mazoooooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
